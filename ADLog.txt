@@ -1,0 +1,1041 @@
+20181025 06:12:45 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:12:45                                             SSOI Header Section START                                                                      
+20181025 06:12:45 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:12:45  Index  : 0 Key : CONNECTION Value : Keep-Alive
+20181025 06:12:45  Index  : 1 Key : ACCEPT Value : */*
+20181025 06:12:45  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate
+20181025 06:12:45  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-us
+20181025 06:12:45  Index  : 4 Key : HOST Value : localhost:64621
+20181025 06:12:45  Index  : 5 Key : USER-AGENT Value : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
+20181025 06:12:45 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:12:45                                             SSOI Header Section END                                                                        
+20181025 06:12:45 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:12:56 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:12:56                                             SSOI Header Section START                                                                      
+20181025 06:12:56 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:12:56  Index  : 0 Key : CONNECTION Value : keep-alive
+20181025 06:12:56  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181025 06:12:56  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181025 06:12:56  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181025 06:12:56  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181025 06:12:56  Index  : 5 Key : HOST Value : localhost:64621
+20181025 06:12:56  Index  : 6 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181025 06:12:56  Index  : 7 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181025 06:12:56 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:12:56                                             SSOI Header Section END                                                                        
+20181025 06:12:56 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:13:55 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:13:55                                             SSOI Header Section START                                                                      
+20181025 06:13:55 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:13:55  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181025 06:13:55  Index  : 1 Key : CONNECTION Value : keep-alive
+20181025 06:13:55  Index  : 2 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181025 06:13:55  Index  : 3 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181025 06:13:55  Index  : 4 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181025 06:13:55  Index  : 5 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181025 06:13:55  Index  : 6 Key : HOST Value : localhost:64621
+20181025 06:13:55  Index  : 7 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181025 06:13:55  Index  : 8 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181025 06:13:55 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:13:55                                             SSOI Header Section END                                                                        
+20181025 06:13:55 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:14:12 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:14:12                                             SSOI Header Section START                                                                      
+20181025 06:14:12 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:14:12  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181025 06:14:12  Index  : 1 Key : CONNECTION Value : keep-alive
+20181025 06:14:12  Index  : 2 Key : CONTENT-LENGTH Value : 291
+20181025 06:14:12  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181025 06:14:12  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181025 06:14:12  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181025 06:14:12  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181025 06:14:12  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181025 06:14:12  Index  : 8 Key : HOST Value : localhost:64621
+20181025 06:14:12  Index  : 9 Key : REFERER Value : http://localhost:64621/GMSnewVA_9.2.0.11_MM%20Asset/Login.aspx
+20181025 06:14:12  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181025 06:14:12  Index  : 11 Key : ORIGIN Value : http://localhost:64621
+20181025 06:14:12  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181025 06:14:12 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:14:12                                             SSOI Header Section END                                                                        
+20181025 06:14:12 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:19:04 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:19:04                                             SSOI Header Section START                                                                      
+20181025 06:19:04 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:19:04  Index  : 0 Key : CONNECTION Value : Keep-Alive
+20181025 06:19:04  Index  : 1 Key : ACCEPT Value : */*
+20181025 06:19:04  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate
+20181025 06:19:04  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-us
+20181025 06:19:04  Index  : 4 Key : HOST Value : localhost:64621
+20181025 06:19:04  Index  : 5 Key : USER-AGENT Value : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
+20181025 06:19:04 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:19:04                                             SSOI Header Section END                                                                        
+20181025 06:19:04 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:19:14 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:19:14                                             SSOI Header Section START                                                                      
+20181025 06:19:14 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:19:14  Index  : 0 Key : CONNECTION Value : keep-alive
+20181025 06:19:14  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181025 06:19:14  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181025 06:19:14  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181025 06:19:14  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181025 06:19:14  Index  : 5 Key : HOST Value : localhost:64621
+20181025 06:19:14  Index  : 6 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181025 06:19:14  Index  : 7 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181025 06:19:14 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:19:14                                             SSOI Header Section END                                                                        
+20181025 06:19:14 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:19:16 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:19:16                                             SSOI Header Section START                                                                      
+20181025 06:19:16 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:19:16  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181025 06:19:16  Index  : 1 Key : CONNECTION Value : keep-alive
+20181025 06:19:16  Index  : 2 Key : CONTENT-LENGTH Value : 301
+20181025 06:19:16  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181025 06:19:16  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181025 06:19:16  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181025 06:19:16  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181025 06:19:16  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181025 06:19:16  Index  : 8 Key : HOST Value : localhost:64621
+20181025 06:19:16  Index  : 9 Key : REFERER Value : http://localhost:64621/GMSnewVA_9.2.0.11_MM%20Asset/Login.aspx
+20181025 06:19:16  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181025 06:19:16  Index  : 11 Key : ORIGIN Value : http://localhost:64621
+20181025 06:19:16  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181025 06:19:16 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:19:16                                             SSOI Header Section END                                                                        
+20181025 06:19:16 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:32:00 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:32:00                                             SSOI Header Section START                                                                      
+20181025 06:32:00 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:32:00  Index  : 0 Key : CONNECTION Value : keep-alive
+20181025 06:32:00  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181025 06:32:00  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181025 06:32:00  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181025 06:32:00  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181025 06:32:00  Index  : 5 Key : HOST Value : localhost:64621
+20181025 06:32:00  Index  : 6 Key : REFERER Value : http://localhost:64621/GMSnewVA_9.2.0.11_MM%20Asset/ApplicationError.aspx?ErrorValue=101
+20181025 06:32:00  Index  : 7 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181025 06:32:00  Index  : 8 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181025 06:32:00 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:32:00                                             SSOI Header Section END                                                                        
+20181025 06:32:00 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:32:02 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:32:02                                             SSOI Header Section START                                                                      
+20181025 06:32:02 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:32:02  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181025 06:32:02  Index  : 1 Key : CONNECTION Value : keep-alive
+20181025 06:32:02  Index  : 2 Key : CONTENT-LENGTH Value : 289
+20181025 06:32:02  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181025 06:32:02  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181025 06:32:02  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181025 06:32:02  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181025 06:32:02  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181025 06:32:02  Index  : 8 Key : HOST Value : localhost:64621
+20181025 06:32:02  Index  : 9 Key : REFERER Value : http://localhost:64621/GMSnewVA_9.2.0.11_MM%20Asset/login.aspx
+20181025 06:32:02  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181025 06:32:02  Index  : 11 Key : ORIGIN Value : http://localhost:64621
+20181025 06:32:02  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181025 06:32:02 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 06:32:02                                             SSOI Header Section END                                                                        
+20181025 06:32:02 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 08:21:00 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 08:21:00                                             SSOI Header Section START                                                                      
+20181025 08:21:00 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 08:21:00  Index  : 0 Key : CONNECTION Value : Keep-Alive
+20181025 08:21:00  Index  : 1 Key : ACCEPT Value : */*
+20181025 08:21:00  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate
+20181025 08:21:00  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-us
+20181025 08:21:00  Index  : 4 Key : HOST Value : localhost:64621
+20181025 08:21:00  Index  : 5 Key : USER-AGENT Value : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
+20181025 08:21:00 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 08:21:00                                             SSOI Header Section END                                                                        
+20181025 08:21:00 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 08:21:15 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 08:21:15                                             SSOI Header Section START                                                                      
+20181025 08:21:15 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 08:21:15  Index  : 0 Key : CONNECTION Value : keep-alive
+20181025 08:21:15  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181025 08:21:15  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181025 08:21:15  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181025 08:21:15  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181025 08:21:15  Index  : 5 Key : HOST Value : localhost:64621
+20181025 08:21:15  Index  : 6 Key : REFERER Value : http://localhost:64621/GMSnewVA_9.2.0.11_MM%20Asset/ApplicationError.aspx?ErrorValue=101
+20181025 08:21:15  Index  : 7 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181025 08:21:15  Index  : 8 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181025 08:21:15 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 08:21:15                                             SSOI Header Section END                                                                        
+20181025 08:21:15 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 08:21:18 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 08:21:18                                             SSOI Header Section START                                                                      
+20181025 08:21:18 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 08:21:18  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181025 08:21:18  Index  : 1 Key : CONNECTION Value : keep-alive
+20181025 08:21:18  Index  : 2 Key : CONTENT-LENGTH Value : 299
+20181025 08:21:18  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181025 08:21:18  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181025 08:21:18  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181025 08:21:18  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181025 08:21:18  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181025 08:21:18  Index  : 8 Key : HOST Value : localhost:64621
+20181025 08:21:18  Index  : 9 Key : REFERER Value : http://localhost:64621/GMSnewVA_9.2.0.11_MM%20Asset/login.aspx
+20181025 08:21:18  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181025 08:21:18  Index  : 11 Key : ORIGIN Value : http://localhost:64621
+20181025 08:21:18  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181025 08:21:18 -------------------------------------------------------------------------------------------------------------------------------------------
+20181025 08:21:18                                             SSOI Header Section END                                                                        
+20181025 08:21:18 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:48:48 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:48:48                                             SSOI Header Section START                                                                      
+20181026 09:48:48 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:48:48  Index  : 0 Key : CONNECTION Value : Keep-Alive
+20181026 09:48:48  Index  : 1 Key : ACCEPT Value : */*
+20181026 09:48:48  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate
+20181026 09:48:48  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-us
+20181026 09:48:48  Index  : 4 Key : HOST Value : localhost:64621
+20181026 09:48:48  Index  : 5 Key : USER-AGENT Value : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
+20181026 09:48:48 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:48:48                                             SSOI Header Section END                                                                        
+20181026 09:48:48 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:49:45 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:49:45                                             SSOI Header Section START                                                                      
+20181026 09:49:45 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:49:45  Index  : 0 Key : CONNECTION Value : Keep-Alive
+20181026 09:49:45  Index  : 1 Key : ACCEPT Value : */*
+20181026 09:49:45  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate
+20181026 09:49:45  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-us
+20181026 09:49:45  Index  : 4 Key : HOST Value : localhost:64621
+20181026 09:49:45  Index  : 5 Key : USER-AGENT Value : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
+20181026 09:49:45 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:49:45                                             SSOI Header Section END                                                                        
+20181026 09:49:45 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:49:56 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:49:56                                             SSOI Header Section START                                                                      
+20181026 09:49:56 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:49:56  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 09:49:56  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 09:49:56  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 09:49:56  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 09:49:56  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 09:49:56  Index  : 5 Key : HOST Value : localhost:64621
+20181026 09:49:56  Index  : 6 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 09:49:56  Index  : 7 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 09:49:56 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:49:56                                             SSOI Header Section END                                                                        
+20181026 09:49:56 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:49:58 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:49:58                                             SSOI Header Section START                                                                      
+20181026 09:49:58 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:49:58  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 09:49:58  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 09:49:58  Index  : 2 Key : CONTENT-LENGTH Value : 291
+20181026 09:49:58  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 09:49:58  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 09:49:58  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 09:49:58  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 09:49:58  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 09:49:58  Index  : 8 Key : HOST Value : localhost:64621
+20181026 09:49:58  Index  : 9 Key : REFERER Value : http://localhost:64621/GMSnewVA_9.2.0.11_MM%20Asset/Login.aspx
+20181026 09:49:58  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 09:49:58  Index  : 11 Key : ORIGIN Value : http://localhost:64621
+20181026 09:49:58  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 09:49:58 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:49:58                                             SSOI Header Section END                                                                        
+20181026 09:49:58 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:52:21 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:52:21                                             SSOI Header Section START                                                                      
+20181026 09:52:21 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:52:21  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 09:52:21  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 09:52:21  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 09:52:21  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 09:52:21  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 09:52:21  Index  : 5 Key : HOST Value : localhost:64621
+20181026 09:52:21  Index  : 6 Key : REFERER Value : http://localhost:64621/GMSnewVA_9.2.0.11_MM%20Asset/ApplicationError.aspx?ErrorValue=101
+20181026 09:52:21  Index  : 7 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 09:52:21  Index  : 8 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 09:52:21 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:52:21                                             SSOI Header Section END                                                                        
+20181026 09:52:21 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:52:35 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:52:35                                             SSOI Header Section START                                                                      
+20181026 09:52:35 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:52:35  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 09:52:35  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 09:52:35  Index  : 2 Key : CONTENT-LENGTH Value : 298
+20181026 09:52:35  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 09:52:35  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 09:52:35  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 09:52:35  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 09:52:35  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 09:52:35  Index  : 8 Key : HOST Value : localhost:64621
+20181026 09:52:35  Index  : 9 Key : REFERER Value : http://localhost:64621/GMSnewVA_9.2.0.11_MM%20Asset/login.aspx
+20181026 09:52:35  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 09:52:35  Index  : 11 Key : ORIGIN Value : http://localhost:64621
+20181026 09:52:35  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 09:52:35 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:52:35                                             SSOI Header Section END                                                                        
+20181026 09:52:35 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:53:43 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:53:43                                             SSOI Header Section START                                                                      
+20181026 09:53:43 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:53:43  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 09:53:43  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 09:53:43  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 09:53:43  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 09:53:43  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 09:53:43  Index  : 5 Key : HOST Value : localhost:64621
+20181026 09:53:43  Index  : 6 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 09:53:43  Index  : 7 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 09:53:43 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:53:43                                             SSOI Header Section END                                                                        
+20181026 09:53:43 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:53:49 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:53:49                                             SSOI Header Section START                                                                      
+20181026 09:53:49 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:53:49  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 09:53:49  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 09:53:49  Index  : 2 Key : CONTENT-LENGTH Value : 294
+20181026 09:53:49  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 09:53:49  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 09:53:49  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 09:53:49  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 09:53:49  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 09:53:49  Index  : 8 Key : HOST Value : localhost:64621
+20181026 09:53:49  Index  : 9 Key : REFERER Value : http://localhost:64621/GMSnewVA_9.2.0.11_MM%20Asset/Login.aspx
+20181026 09:53:49  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 09:53:49  Index  : 11 Key : ORIGIN Value : http://localhost:64621
+20181026 09:53:49  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 09:53:49 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:53:49                                             SSOI Header Section END                                                                        
+20181026 09:53:49 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:57:35 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:57:35                                             SSOI Header Section START                                                                      
+20181026 09:57:35 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:57:35  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 09:57:35  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 09:57:35  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 09:57:35  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 09:57:35  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 09:57:35  Index  : 5 Key : HOST Value : localhost:64621
+20181026 09:57:35  Index  : 6 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 09:57:35  Index  : 7 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 09:57:35 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:57:35                                             SSOI Header Section END                                                                        
+20181026 09:57:35 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:57:41 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:57:41                                             SSOI Header Section START                                                                      
+20181026 09:57:41 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:57:41  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 09:57:41  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 09:57:41  Index  : 2 Key : CONTENT-LENGTH Value : 292
+20181026 09:57:41  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 09:57:41  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 09:57:41  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 09:57:41  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 09:57:41  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 09:57:41  Index  : 8 Key : HOST Value : localhost:64621
+20181026 09:57:41  Index  : 9 Key : REFERER Value : http://localhost:64621/GMSnewVA_9.2.0.11_MM%20Asset/Login.aspx
+20181026 09:57:41  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 09:57:41  Index  : 11 Key : ORIGIN Value : http://localhost:64621
+20181026 09:57:41  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 09:57:41 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 09:57:41                                             SSOI Header Section END                                                                        
+20181026 09:57:41 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 10:00:47 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 10:00:47                                             SSOI Header Section START                                                                      
+20181026 10:00:47 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 10:00:47  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 10:00:47  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 10:00:47  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 10:00:47  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 10:00:47  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 10:00:47  Index  : 5 Key : HOST Value : localhost:64621
+20181026 10:00:47  Index  : 6 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 10:00:47  Index  : 7 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 10:00:47 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 10:00:47                                             SSOI Header Section END                                                                        
+20181026 10:00:47 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 10:00:54 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 10:00:54                                             SSOI Header Section START                                                                      
+20181026 10:00:54 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 10:00:54  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 10:00:54  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 10:00:54  Index  : 2 Key : CONTENT-LENGTH Value : 298
+20181026 10:00:54  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 10:00:54  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 10:00:54  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 10:00:54  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 10:00:54  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 10:00:54  Index  : 8 Key : HOST Value : localhost:64621
+20181026 10:00:54  Index  : 9 Key : REFERER Value : http://localhost:64621/GMSnewVA_9.2.0.11_MM%20Asset/Login.aspx
+20181026 10:00:54  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 10:00:54  Index  : 11 Key : ORIGIN Value : http://localhost:64621
+20181026 10:00:54  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 10:00:54 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 10:00:54                                             SSOI Header Section END                                                                        
+20181026 10:00:54 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 10:55:18 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 10:55:18                                             SSOI Header Section START                                                                      
+20181026 10:55:18 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 10:55:18  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 10:55:18  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 10:55:18  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 10:55:18  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 10:55:18  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 10:55:18  Index  : 5 Key : HOST Value : localhost:64621
+20181026 10:55:18  Index  : 6 Key : REFERER Value : http://localhost:64621/GMSnewVA_9.2.0.11_MM%20Asset/ApplicationError.aspx?ErrorValue=101
+20181026 10:55:18  Index  : 7 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 10:55:18  Index  : 8 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 10:55:18 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 10:55:18                                             SSOI Header Section END                                                                        
+20181026 10:55:18 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 10:55:24 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 10:55:24                                             SSOI Header Section START                                                                      
+20181026 10:55:24 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 10:55:24  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 10:55:24  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 10:55:24  Index  : 2 Key : CONTENT-LENGTH Value : 298
+20181026 10:55:24  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 10:55:24  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 10:55:24  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 10:55:24  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 10:55:24  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 10:55:24  Index  : 8 Key : HOST Value : localhost:64621
+20181026 10:55:24  Index  : 9 Key : REFERER Value : http://localhost:64621/GMSnewVA_9.2.0.11_MM%20Asset/login.aspx
+20181026 10:55:24  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 10:55:24  Index  : 11 Key : ORIGIN Value : http://localhost:64621
+20181026 10:55:24  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 10:55:24 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 10:55:24                                             SSOI Header Section END                                                                        
+20181026 10:55:24 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 11:27:33 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 11:27:33                                             SSOI Header Section START                                                                      
+20181026 11:27:33 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 11:27:33  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 11:27:33  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 11:27:33  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 11:27:33  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 11:27:33  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 11:27:33  Index  : 5 Key : HOST Value : localhost:64621
+20181026 11:27:33  Index  : 6 Key : REFERER Value : http://localhost:64621/GMSnewVA_9.2.0.11_MM%20Asset/ApplicationError.aspx?ErrorValue=101
+20181026 11:27:33  Index  : 7 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 11:27:33  Index  : 8 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 11:27:33 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 11:27:33                                             SSOI Header Section END                                                                        
+20181026 11:27:33 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 11:27:36 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 11:27:36                                             SSOI Header Section START                                                                      
+20181026 11:27:36 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 11:27:36  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 11:27:36  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 11:27:36  Index  : 2 Key : CONTENT-LENGTH Value : 300
+20181026 11:27:36  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 11:27:36  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 11:27:36  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 11:27:36  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 11:27:36  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 11:27:36  Index  : 8 Key : HOST Value : localhost:64621
+20181026 11:27:36  Index  : 9 Key : REFERER Value : http://localhost:64621/GMSnewVA_9.2.0.11_MM%20Asset/login.aspx
+20181026 11:27:36  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 11:27:36  Index  : 11 Key : ORIGIN Value : http://localhost:64621
+20181026 11:27:36  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 11:27:36 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 11:27:36                                             SSOI Header Section END                                                                        
+20181026 11:27:36 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 11:27:41 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 11:27:41                                             SSOI Header Section START                                                                      
+20181026 11:27:41 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 11:27:41  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 11:27:41  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 11:27:41  Index  : 2 Key : CONTENT-LENGTH Value : 442
+20181026 11:27:41  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 11:27:41  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 11:27:41  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 11:27:41  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 11:27:41  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 11:27:41  Index  : 8 Key : HOST Value : localhost:64621
+20181026 11:27:41  Index  : 9 Key : REFERER Value : http://localhost:64621/GMSnewVA_9.2.0.11_MM%20Asset/login.aspx
+20181026 11:27:41  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 11:27:41  Index  : 11 Key : ORIGIN Value : http://localhost:64621
+20181026 11:27:41  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 11:27:41 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 11:27:41                                             SSOI Header Section END                                                                        
+20181026 11:27:41 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 11:43:59 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 11:43:59                                             SSOI Header Section START                                                                      
+20181026 11:43:59 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 11:43:59  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 11:43:59  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 11:43:59  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 11:43:59  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 11:43:59  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 11:43:59  Index  : 5 Key : HOST Value : localhost:51208
+20181026 11:43:59  Index  : 6 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 11:43:59  Index  : 7 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 11:43:59 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 11:43:59                                             SSOI Header Section END                                                                        
+20181026 11:43:59 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:17:34 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:17:34                                             SSOI Header Section START                                                                      
+20181026 01:17:34 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:17:34  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 01:17:34  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 01:17:34  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 01:17:34  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 01:17:34  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 01:17:34  Index  : 5 Key : HOST Value : localhost:51208
+20181026 01:17:34  Index  : 6 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 01:17:34  Index  : 7 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 01:17:34 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:17:34                                             SSOI Header Section END                                                                        
+20181026 01:17:34 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:18:01 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:18:01                                             SSOI Header Section START                                                                      
+20181026 01:18:01 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:18:01  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 01:18:01  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 01:18:01  Index  : 2 Key : CONTENT-LENGTH Value : 296
+20181026 01:18:01  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 01:18:01  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 01:18:01  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 01:18:01  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 01:18:01  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 01:18:01  Index  : 8 Key : HOST Value : localhost:51208
+20181026 01:18:01  Index  : 9 Key : REFERER Value : http://localhost:51208/GMSnewVA_9.2.0.12/Login.aspx
+20181026 01:18:01  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 01:18:01  Index  : 11 Key : ORIGIN Value : http://localhost:51208
+20181026 01:18:01  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 01:18:01 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:18:01                                             SSOI Header Section END                                                                        
+20181026 01:18:01 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:18:14 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:18:14                                             SSOI Header Section START                                                                      
+20181026 01:18:14 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:18:14  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 01:18:14  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 01:18:14  Index  : 2 Key : CONTENT-LENGTH Value : 300
+20181026 01:18:14  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 01:18:14  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 01:18:14  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 01:18:14  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 01:18:14  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 01:18:14  Index  : 8 Key : HOST Value : localhost:51208
+20181026 01:18:14  Index  : 9 Key : REFERER Value : http://localhost:51208/GMSnewVA_9.2.0.12/Login.aspx
+20181026 01:18:14  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 01:18:14  Index  : 11 Key : ORIGIN Value : http://localhost:51208
+20181026 01:18:14  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 01:18:14 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:18:14                                             SSOI Header Section END                                                                        
+20181026 01:18:14 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:18:28 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:18:28                                             SSOI Header Section START                                                                      
+20181026 01:18:28 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:18:28  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 01:18:28  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 01:18:28  Index  : 2 Key : CONTENT-LENGTH Value : 292
+20181026 01:18:28  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 01:18:28  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 01:18:28  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 01:18:28  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 01:18:28  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 01:18:28  Index  : 8 Key : HOST Value : localhost:51208
+20181026 01:18:28  Index  : 9 Key : REFERER Value : http://localhost:51208/GMSnewVA_9.2.0.12/Login.aspx
+20181026 01:18:28  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 01:18:28  Index  : 11 Key : ORIGIN Value : http://localhost:51208
+20181026 01:18:28  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 01:18:28 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:18:28                                             SSOI Header Section END                                                                        
+20181026 01:18:28 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:19:34 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:19:34                                             SSOI Header Section START                                                                      
+20181026 01:19:34 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:19:34  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 01:19:34  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 01:19:34  Index  : 2 Key : CONTENT-LENGTH Value : 290
+20181026 01:19:34  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 01:19:34  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 01:19:34  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 01:19:34  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 01:19:34  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 01:19:34  Index  : 8 Key : HOST Value : localhost:51208
+20181026 01:19:34  Index  : 9 Key : REFERER Value : http://localhost:51208/GMSnewVA_9.2.0.12/Login.aspx
+20181026 01:19:34  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 01:19:34  Index  : 11 Key : ORIGIN Value : http://localhost:51208
+20181026 01:19:34  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 01:19:34 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 01:19:34                                             SSOI Header Section END                                                                        
+20181026 01:19:34 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 03:41:12 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 03:41:12                                             SSOI Header Section START                                                                      
+20181026 03:41:12 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 03:41:12  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 03:41:12  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 03:41:12  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 03:41:12  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 03:41:12  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 03:41:12  Index  : 5 Key : HOST Value : localhost:51208
+20181026 03:41:12  Index  : 6 Key : REFERER Value : http://localhost:51208/GMSnewVA_9.2.0.12/ApplicationError.aspx?ErrorValue=101
+20181026 03:41:12  Index  : 7 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 03:41:12  Index  : 8 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 03:41:12 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 03:41:12                                             SSOI Header Section END                                                                        
+20181026 03:41:12 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 03:41:18 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 03:41:18                                             SSOI Header Section START                                                                      
+20181026 03:41:18 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 03:41:18  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 03:41:18  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 03:41:18  Index  : 2 Key : CONTENT-LENGTH Value : 296
+20181026 03:41:18  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 03:41:18  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 03:41:18  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 03:41:18  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 03:41:18  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 03:41:18  Index  : 8 Key : HOST Value : localhost:51208
+20181026 03:41:18  Index  : 9 Key : REFERER Value : http://localhost:51208/GMSnewVA_9.2.0.12/login.aspx
+20181026 03:41:18  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 03:41:18  Index  : 11 Key : ORIGIN Value : http://localhost:51208
+20181026 03:41:18  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 03:41:18 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 03:41:18                                             SSOI Header Section END                                                                        
+20181026 03:41:18 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:20:06 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:20:06                                             SSOI Header Section START                                                                      
+20181026 04:20:06 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:20:06  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 04:20:06  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 04:20:06  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 04:20:06  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 04:20:06  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=wwmn3qhgtke1hz5pwd3tdwt4
+20181026 04:20:06  Index  : 5 Key : HOST Value : localhost:51208
+20181026 04:20:06  Index  : 6 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 04:20:06  Index  : 7 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 04:20:06 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:20:06                                             SSOI Header Section END                                                                        
+20181026 04:20:06 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:20:18 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:20:18                                             SSOI Header Section START                                                                      
+20181026 04:20:18 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:20:18  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 04:20:18  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 04:20:18  Index  : 2 Key : CONTENT-LENGTH Value : 290
+20181026 04:20:18  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 04:20:18  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 04:20:18  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 04:20:18  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 04:20:18  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=wwmn3qhgtke1hz5pwd3tdwt4
+20181026 04:20:18  Index  : 8 Key : HOST Value : localhost:51208
+20181026 04:20:18  Index  : 9 Key : REFERER Value : http://localhost:51208/GMSnewVA_9.2.0.12/Login.aspx
+20181026 04:20:18  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 04:20:18  Index  : 11 Key : ORIGIN Value : http://localhost:51208
+20181026 04:20:18  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 04:20:18 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:20:18                                             SSOI Header Section END                                                                        
+20181026 04:20:18 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:20:36 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:20:36                                             SSOI Header Section START                                                                      
+20181026 04:20:36 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:20:36  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 04:20:36  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 04:20:36  Index  : 2 Key : CONTENT-LENGTH Value : 436
+20181026 04:20:36  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 04:20:36  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 04:20:36  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 04:20:36  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 04:20:36  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=wwmn3qhgtke1hz5pwd3tdwt4
+20181026 04:20:36  Index  : 8 Key : HOST Value : localhost:51208
+20181026 04:20:36  Index  : 9 Key : REFERER Value : http://localhost:51208/GMSnewVA_9.2.0.12/Login.aspx
+20181026 04:20:36  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 04:20:36  Index  : 11 Key : ORIGIN Value : http://localhost:51208
+20181026 04:20:36  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 04:20:36 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:20:36                                             SSOI Header Section END                                                                        
+20181026 04:20:36 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:20:54 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:20:54                                             SSOI Header Section START                                                                      
+20181026 04:20:54 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:20:54  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 04:20:54  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 04:20:54  Index  : 2 Key : CONTENT-LENGTH Value : 429
+20181026 04:20:54  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 04:20:54  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 04:20:54  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 04:20:54  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 04:20:54  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=wwmn3qhgtke1hz5pwd3tdwt4
+20181026 04:20:54  Index  : 8 Key : HOST Value : localhost:51208
+20181026 04:20:54  Index  : 9 Key : REFERER Value : http://localhost:51208/GMSnewVA_9.2.0.12/Login.aspx
+20181026 04:20:54  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 04:20:54  Index  : 11 Key : ORIGIN Value : http://localhost:51208
+20181026 04:20:54  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 04:20:54 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:20:54                                             SSOI Header Section END                                                                        
+20181026 04:20:54 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:22:52 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:22:52                                             SSOI Header Section START                                                                      
+20181026 04:22:52 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:22:52  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 04:22:52  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 04:22:52  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 04:22:52  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 04:22:52  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=eiwbhmp34ejpys4yhtgrlwkl; AuthToken=52f64c48-71b5-49b4-96e6-4ee27b52f8ef
+20181026 04:22:52  Index  : 5 Key : HOST Value : localhost:51208
+20181026 04:22:52  Index  : 6 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 04:22:52  Index  : 7 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 04:22:52 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 04:22:52                                             SSOI Header Section END                                                                        
+20181026 04:22:52 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 05:31:49 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 05:31:49                                             SSOI Header Section START                                                                      
+20181026 05:31:49 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 05:31:49  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 05:31:49  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 05:31:49  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 05:31:49  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 05:31:49  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=wwmn3qhgtke1hz5pwd3tdwt4
+20181026 05:31:49  Index  : 5 Key : HOST Value : localhost:51208
+20181026 05:31:49  Index  : 6 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 05:31:49  Index  : 7 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 05:31:49 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 05:31:49                                             SSOI Header Section END                                                                        
+20181026 05:31:49 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 05:31:50 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 05:31:50                                             SSOI Header Section START                                                                      
+20181026 05:31:50 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 05:31:50  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 05:31:50  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 05:31:50  Index  : 2 Key : CONTENT-LENGTH Value : 299
+20181026 05:31:50  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 05:31:50  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 05:31:50  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 05:31:50  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 05:31:50  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=wwmn3qhgtke1hz5pwd3tdwt4
+20181026 05:31:50  Index  : 8 Key : HOST Value : localhost:51208
+20181026 05:31:50  Index  : 9 Key : REFERER Value : http://localhost:51208/GMSnewVA_9.2.0.12/Login.aspx
+20181026 05:31:50  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 05:31:50  Index  : 11 Key : ORIGIN Value : http://localhost:51208
+20181026 05:31:50  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 05:31:50 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 05:31:50                                             SSOI Header Section END                                                                        
+20181026 05:31:50 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 05:31:57 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 05:31:57                                             SSOI Header Section START                                                                      
+20181026 05:31:57 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 05:31:57  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 05:31:57  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 05:31:57  Index  : 2 Key : CONTENT-LENGTH Value : 438
+20181026 05:31:57  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 05:31:57  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 05:31:57  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 05:31:57  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 05:31:57  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=wwmn3qhgtke1hz5pwd3tdwt4
+20181026 05:31:57  Index  : 8 Key : HOST Value : localhost:51208
+20181026 05:31:57  Index  : 9 Key : REFERER Value : http://localhost:51208/GMSnewVA_9.2.0.12/Login.aspx
+20181026 05:31:57  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 05:31:57  Index  : 11 Key : ORIGIN Value : http://localhost:51208
+20181026 05:31:57  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 05:31:57 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 05:31:57                                             SSOI Header Section END                                                                        
+20181026 05:31:57 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:36:05 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:36:05                                             SSOI Header Section START                                                                      
+20181026 06:36:05 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:36:05  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 06:36:05  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 06:36:05  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 06:36:05  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 06:36:05  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=wwmn3qhgtke1hz5pwd3tdwt4
+20181026 06:36:05  Index  : 5 Key : HOST Value : localhost:51208
+20181026 06:36:05  Index  : 6 Key : REFERER Value : http://localhost:51208/GMSnewVA_9.2.0.12/ApplicationError.aspx?ErrorValue=101
+20181026 06:36:05  Index  : 7 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 06:36:05  Index  : 8 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 06:36:05 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:36:05                                             SSOI Header Section END                                                                        
+20181026 06:36:05 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:36:08 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:36:08                                             SSOI Header Section START                                                                      
+20181026 06:36:08 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:36:08  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 06:36:08  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 06:36:08  Index  : 2 Key : CONTENT-LENGTH Value : 294
+20181026 06:36:08  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 06:36:08  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 06:36:08  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 06:36:08  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 06:36:08  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=wwmn3qhgtke1hz5pwd3tdwt4
+20181026 06:36:08  Index  : 8 Key : HOST Value : localhost:51208
+20181026 06:36:08  Index  : 9 Key : REFERER Value : http://localhost:51208/GMSnewVA_9.2.0.12/login.aspx
+20181026 06:36:08  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 06:36:08  Index  : 11 Key : ORIGIN Value : http://localhost:51208
+20181026 06:36:08  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 06:36:08 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:36:08                                             SSOI Header Section END                                                                        
+20181026 06:36:08 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:45:57 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:45:57                                             SSOI Header Section START                                                                      
+20181026 06:45:57 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:45:57  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 06:45:57  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 06:45:57  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 06:45:57  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 06:45:57  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=wwmn3qhgtke1hz5pwd3tdwt4
+20181026 06:45:57  Index  : 5 Key : HOST Value : localhost:51208
+20181026 06:45:57  Index  : 6 Key : REFERER Value : http://localhost:51208/GMSnewVA_9.2.0.12/ApplicationError.aspx?ErrorValue=101
+20181026 06:45:57  Index  : 7 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 06:45:57  Index  : 8 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 06:45:57 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:45:57                                             SSOI Header Section END                                                                        
+20181026 06:45:57 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:46:03 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:46:03                                             SSOI Header Section START                                                                      
+20181026 06:46:03 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:46:03  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 06:46:03  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 06:46:03  Index  : 2 Key : CONTENT-LENGTH Value : 297
+20181026 06:46:03  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 06:46:03  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 06:46:03  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 06:46:03  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 06:46:03  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=wwmn3qhgtke1hz5pwd3tdwt4
+20181026 06:46:03  Index  : 8 Key : HOST Value : localhost:51208
+20181026 06:46:03  Index  : 9 Key : REFERER Value : http://localhost:51208/GMSnewVA_9.2.0.12/login.aspx
+20181026 06:46:03  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 06:46:03  Index  : 11 Key : ORIGIN Value : http://localhost:51208
+20181026 06:46:03  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 06:46:03 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:46:03                                             SSOI Header Section END                                                                        
+20181026 06:46:03 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:46:12 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:46:12                                             SSOI Header Section START                                                                      
+20181026 06:46:12 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:46:12  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 06:46:12  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 06:46:12  Index  : 2 Key : CONTENT-LENGTH Value : 432
+20181026 06:46:12  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 06:46:12  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 06:46:12  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 06:46:12  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 06:46:12  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=wwmn3qhgtke1hz5pwd3tdwt4
+20181026 06:46:12  Index  : 8 Key : HOST Value : localhost:51208
+20181026 06:46:12  Index  : 9 Key : REFERER Value : http://localhost:51208/GMSnewVA_9.2.0.12/login.aspx
+20181026 06:46:12  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 06:46:12  Index  : 11 Key : ORIGIN Value : http://localhost:51208
+20181026 06:46:12  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 06:46:12 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:46:12                                             SSOI Header Section END                                                                        
+20181026 06:46:12 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:48:48 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:48:48                                             SSOI Header Section START                                                                      
+20181026 06:48:48 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:48:48  Index  : 0 Key : CONNECTION Value : Keep-Alive
+20181026 06:48:48  Index  : 1 Key : ACCEPT Value : application/x-ms-application, image/jpeg, application/xaml+xml, image/gif, image/pjpeg, application/x-ms-xbap, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+20181026 06:48:48  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate
+20181026 06:48:48  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US
+20181026 06:48:48  Index  : 4 Key : HOST Value : localhost
+20181026 06:48:48  Index  : 5 Key : USER-AGENT Value : Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
+20181026 06:48:48 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:48:48                                             SSOI Header Section END                                                                        
+20181026 06:48:48 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:48:57 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:48:57                                             SSOI Header Section START                                                                      
+20181026 06:48:57 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:48:57  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 06:48:57  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 06:48:57  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181026 06:48:57  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 06:48:57  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=wwmn3qhgtke1hz5pwd3tdwt4
+20181026 06:48:57  Index  : 5 Key : HOST Value : localhost
+20181026 06:48:57  Index  : 6 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 06:48:57  Index  : 7 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 06:48:57 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:48:57                                             SSOI Header Section END                                                                        
+20181026 06:48:57 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:49:05 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:49:05                                             SSOI Header Section START                                                                      
+20181026 06:49:05 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:49:05  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 06:49:05  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 06:49:05  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate
+20181026 06:49:05  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 06:49:05  Index  : 4 Key : HOST Value : 192.168.0.123
+20181026 06:49:05  Index  : 5 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 06:49:05  Index  : 6 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 06:49:05 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:49:05                                             SSOI Header Section END                                                                        
+20181026 06:49:05 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:49:37 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:49:37                                             SSOI Header Section START                                                                      
+20181026 06:49:37 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:49:37  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 06:49:37  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 06:49:37  Index  : 2 Key : CONTENT-LENGTH Value : 296
+20181026 06:49:37  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 06:49:37  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 06:49:37  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate
+20181026 06:49:37  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 06:49:37  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=n2nrv2hfhingelzkvfvkhkn4
+20181026 06:49:37  Index  : 8 Key : HOST Value : 192.168.0.123
+20181026 06:49:37  Index  : 9 Key : REFERER Value : http://192.168.0.123/GMSNew_5/Login.aspx
+20181026 06:49:37  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 06:49:37  Index  : 11 Key : ORIGIN Value : http://192.168.0.123
+20181026 06:49:37  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 06:49:37 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:49:37                                             SSOI Header Section END                                                                        
+20181026 06:49:37 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:49:54 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:49:54                                             SSOI Header Section START                                                                      
+20181026 06:49:54 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:49:54  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 06:49:54  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 06:49:54  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate
+20181026 06:49:54  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 06:49:54  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=n2nrv2hfhingelzkvfvkhkn4
+20181026 06:49:54  Index  : 5 Key : HOST Value : 192.168.0.123
+20181026 06:49:54  Index  : 6 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 06:49:54  Index  : 7 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 06:49:54 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:49:54                                             SSOI Header Section END                                                                        
+20181026 06:49:54 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:50:12 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:50:12                                             SSOI Header Section START                                                                      
+20181026 06:50:12 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:50:12  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 06:50:12  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 06:50:12  Index  : 2 Key : CONTENT-LENGTH Value : 304
+20181026 06:50:12  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 06:50:12  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 06:50:12  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate
+20181026 06:50:12  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 06:50:12  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=n2nrv2hfhingelzkvfvkhkn4
+20181026 06:50:12  Index  : 8 Key : HOST Value : 192.168.0.123
+20181026 06:50:12  Index  : 9 Key : REFERER Value : http://192.168.0.123/GMSNew_5/Login.aspx
+20181026 06:50:12  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 06:50:12  Index  : 11 Key : ORIGIN Value : http://192.168.0.123
+20181026 06:50:12  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 06:50:12 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 06:50:12                                             SSOI Header Section END                                                                        
+20181026 06:50:12 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 07:04:08 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 07:04:08                                             SSOI Header Section START                                                                      
+20181026 07:04:08 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 07:04:08  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 07:04:08  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 07:04:08  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate
+20181026 07:04:08  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 07:04:08  Index  : 4 Key : HOST Value : 192.168.0.123
+20181026 07:04:08  Index  : 5 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 07:04:08  Index  : 6 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 07:04:08 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 07:04:08                                             SSOI Header Section END                                                                        
+20181026 07:04:08 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 07:04:22 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 07:04:22                                             SSOI Header Section START                                                                      
+20181026 07:04:22 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 07:04:22  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 07:04:22  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 07:04:22  Index  : 2 Key : CONTENT-LENGTH Value : 290
+20181026 07:04:22  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 07:04:22  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 07:04:22  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate
+20181026 07:04:22  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 07:04:22  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=j3tllfrvjkg45dhrl44ne4u5
+20181026 07:04:22  Index  : 8 Key : HOST Value : 192.168.0.123
+20181026 07:04:22  Index  : 9 Key : REFERER Value : http://192.168.0.123/GMSNew_5/Login.aspx
+20181026 07:04:22  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 07:04:22  Index  : 11 Key : ORIGIN Value : http://192.168.0.123
+20181026 07:04:22  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 07:04:22 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 07:04:22                                             SSOI Header Section END                                                                        
+20181026 07:04:22 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 08:57:35 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 08:57:35                                             SSOI Header Section START                                                                      
+20181026 08:57:35 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 08:57:35  Index  : 0 Key : CONNECTION Value : keep-alive
+20181026 08:57:35  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 08:57:35  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate
+20181026 08:57:35  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 08:57:35  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=n2nrv2hfhingelzkvfvkhkn4
+20181026 08:57:35  Index  : 5 Key : HOST Value : 192.168.0.123
+20181026 08:57:35  Index  : 6 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 08:57:35  Index  : 7 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 08:57:35 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 08:57:35                                             SSOI Header Section END                                                                        
+20181026 08:57:35 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 08:57:37 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 08:57:37                                             SSOI Header Section START                                                                      
+20181026 08:57:37 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 08:57:37  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181026 08:57:37  Index  : 1 Key : CONNECTION Value : keep-alive
+20181026 08:57:37  Index  : 2 Key : CONTENT-LENGTH Value : 294
+20181026 08:57:37  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181026 08:57:37  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181026 08:57:37  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate
+20181026 08:57:37  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181026 08:57:37  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=n2nrv2hfhingelzkvfvkhkn4
+20181026 08:57:37  Index  : 8 Key : HOST Value : 192.168.0.123
+20181026 08:57:37  Index  : 9 Key : REFERER Value : http://192.168.0.123/GMSNew_5/Login.aspx
+20181026 08:57:37  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181026 08:57:37  Index  : 11 Key : ORIGIN Value : http://192.168.0.123
+20181026 08:57:37  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181026 08:57:37 -------------------------------------------------------------------------------------------------------------------------------------------
+20181026 08:57:37                                             SSOI Header Section END                                                                        
+20181026 08:57:37 -------------------------------------------------------------------------------------------------------------------------------------------
+20181030 04:47:02 -------------------------------------------------------------------------------------------------------------------------------------------
+20181030 04:47:02                                             SSOI Header Section START                                                                      
+20181030 04:47:02 -------------------------------------------------------------------------------------------------------------------------------------------
+20181030 04:47:02  Index  : 0 Key : CONNECTION Value : keep-alive
+20181030 04:47:02  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181030 04:47:02  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate
+20181030 04:47:02  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181030 04:47:02  Index  : 4 Key : HOST Value : 192.168.0.123
+20181030 04:47:02  Index  : 5 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181030 04:47:02  Index  : 6 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181030 04:47:02 -------------------------------------------------------------------------------------------------------------------------------------------
+20181030 04:47:02                                             SSOI Header Section END                                                                        
+20181030 04:47:02 -------------------------------------------------------------------------------------------------------------------------------------------
+20181030 04:48:29 -------------------------------------------------------------------------------------------------------------------------------------------
+20181030 04:48:29                                             SSOI Header Section START                                                                      
+20181030 04:48:29 -------------------------------------------------------------------------------------------------------------------------------------------
+20181030 04:48:29  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181030 04:48:29  Index  : 1 Key : CONNECTION Value : keep-alive
+20181030 04:48:29  Index  : 2 Key : CONTENT-LENGTH Value : 298
+20181030 04:48:29  Index  : 3 Key : CONTENT-TYPE Value : application/x-www-form-urlencoded
+20181030 04:48:29  Index  : 4 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181030 04:48:29  Index  : 5 Key : ACCEPT-ENCODING Value : gzip, deflate
+20181030 04:48:29  Index  : 6 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181030 04:48:29  Index  : 7 Key : COOKIE Value : ASP.NET_SessionId=uq4co23acjnlqa3wlk3fclx5
+20181030 04:48:29  Index  : 8 Key : HOST Value : 192.168.0.123
+20181030 04:48:29  Index  : 9 Key : REFERER Value : http://192.168.0.123/GMSNew_5/Login.aspx
+20181030 04:48:29  Index  : 10 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+20181030 04:48:29  Index  : 11 Key : ORIGIN Value : http://192.168.0.123
+20181030 04:48:29  Index  : 12 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181030 04:48:29 -------------------------------------------------------------------------------------------------------------------------------------------
+20181030 04:48:29                                             SSOI Header Section END                                                                        
+20181030 04:48:29 -------------------------------------------------------------------------------------------------------------------------------------------
+20181116 03:35:53 -------------------------------------------------------------------------------------------------------------------------------------------
+20181116 03:35:54                                             SSOI Header Section START                                                                      
+20181116 03:35:54 -------------------------------------------------------------------------------------------------------------------------------------------
+20181116 03:35:54  Index  : 0 Key : CONNECTION Value : keep-alive
+20181116 03:35:55  Index  : 1 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181116 03:36:07  Index  : 2 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181116 03:36:07  Index  : 3 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181116 03:36:07  Index  : 4 Key : COOKIE Value : ASP.NET_SessionId=aqu1nhenzfg0qgz4tvnqh40c
+20181116 03:36:07  Index  : 5 Key : HOST Value : localhost:51208
+20181116 03:36:07  Index  : 6 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+20181116 03:36:07  Index  : 7 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181116 03:36:07 -------------------------------------------------------------------------------------------------------------------------------------------
+20181116 03:36:07                                             SSOI Header Section END                                                                        
+20181116 03:36:07 -------------------------------------------------------------------------------------------------------------------------------------------
+20181116 03:45:33 -------------------------------------------------------------------------------------------------------------------------------------------
+20181116 03:45:33                                             SSOI Header Section START                                                                      
+20181116 03:45:33 -------------------------------------------------------------------------------------------------------------------------------------------
+20181116 03:45:34  Index  : 0 Key : CACHE-CONTROL Value : max-age=0
+20181116 03:45:36  Index  : 1 Key : CONNECTION Value : keep-alive
+20181116 03:45:36  Index  : 2 Key : ACCEPT Value : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+20181116 03:45:36  Index  : 3 Key : ACCEPT-ENCODING Value : gzip, deflate, br
+20181116 03:45:36  Index  : 4 Key : ACCEPT-LANGUAGE Value : en-US,en;q=0.9
+20181116 03:45:36  Index  : 5 Key : COOKIE Value : ASP.NET_SessionId=aqu1nhenzfg0qgz4tvnqh40c
+20181116 03:45:36  Index  : 6 Key : HOST Value : localhost:51208
+20181116 03:45:36  Index  : 7 Key : USER-AGENT Value : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+20181116 03:45:36  Index  : 8 Key : UPGRADE-INSECURE-REQUESTS Value : 1
+20181116 03:45:36 -------------------------------------------------------------------------------------------------------------------------------------------
+20181116 03:45:36                                             SSOI Header Section END                                                                        
+20181116 03:45:36 -------------------------------------------------------------------------------------------------------------------------------------------

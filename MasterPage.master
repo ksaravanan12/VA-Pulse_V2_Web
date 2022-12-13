@@ -1,0 +1,110 @@
+<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
+
+<%@ Register Src="UserControls/gms-Header.ascx" TagName="Banner" TagPrefix="uc1" %>
+<%@ Register Src="UserControls/gms_Leftmenu.ascx" TagName="Leftmenu" TagPrefix="uc2" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Connect Pulse - Home</title>
+
+    <link href="Styles/jquery-ui-1.10.4.custom.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="Styles/gms_StyleSheet.css?d=200" />
+    <link rel="shortcut icon" href="centrakicon.ico" type="image/x-icon" />
+
+    <script type="text/javascript" language="javascript" src="Javascript/js_Ajax.js?d=100"></script>
+    <script type="text/javascript" language="javascript" src="Javascript/js_Infrastructure_info.js?d=200"></script>
+    <script type="text/javascript" language="javascript" src="Javascript/js_taginfo.js?d=200"></script>
+    <script type="text/javascript" language="javascript" src="Javascript/js_siteoverviewinfo.js?d=200"></script>
+    <script type="text/javascript" language="javascript" src="Javascript/js_Star_info.js?d=200"></script>
+    <script type="text/javascript" language="javascript" src="Javascript/js_deviceDetails.js?d=200"></script>
+    <script type="text/javascript" language="javascript" src="Javascript/js_alertinfo.js"></script>
+    <script type="text/javascript" language="javascript" src="Javascript/jquery-1.8.2.min.js"></script>
+    <script type="text/javascript" language="javascript" src="Javascript/js_General.js?d=200"></script>
+    <script type="text/javascript" language="javascript" src="Javascript/exportcsv.js"></script>
+    <script type="text/javascript" language="javascript" src="Javascript/js_TagMovements.js"></script>
+    <script type="text/javascript" language="javascript" src="Javascript/js_Home.js?d=200"></script>
+    <script type="text/javascript" src="Javascript/GlossaryHelp.js?d=11"></script>
+    <script language="javascript" type="text/javascript" src="Javascript/jquery-ui-1.10.4.custom.js"></script>
+    <script language="javascript" type="text/javascript" src="Javascript/jquery.sparkline.js"></script>
+    <script type="text/javascript" src="Javascript/js_Announcements.js?d=200"></script>
+
+    <script type="text/javascript">
+
+        $(window).load(function () {
+
+            document.getElementById("tdLeftMenu").style.display = "none";
+
+            var locArr = window.location.pathname.split("/");
+            if (locArr[locArr.length - 1] == "Home.aspx" || locArr[locArr.length - 1] == "TagInfo.aspx") {
+                HomePageAnnouncements();
+            }
+            if (locArr[locArr.length - 1] != "Map.aspx" && locArr[locArr.length - 1] != "INITrackingHistory.aspx" && locArr[locArr.length - 1] != "TagInfo.aspx" &&
+                locArr[locArr.length - 1] != "TagDetails.aspx" && locArr[locArr.length - 1] != "Reports.aspx" && locArr[locArr.length - 1] != "GuardianControllerViewer.aspx" &&
+                locArr[locArr.length - 1] != "GuardianAlertViewer.aspx" && locArr[locArr.length - 1] != "GuardianTATSVALID.aspx" && locArr[locArr.length - 1] != "GuardianSystemStatusView.aspx" &&
+                locArr[locArr.length - 1] != "GuardianUILogView.aspx" && locArr[locArr.length - 1] != "GuardianSettings.aspx" && locArr[locArr.length - 1] != "DefectiveDeviceList.aspx"
+                && locArr[locArr.length - 1] != "PulseDeviceReports.aspx" && locArr[locArr.length - 1] != "TagLBIActivityReport.aspx" && locArr[locArr.length - 1] != "MonitorLBIActivityReport.aspx"
+                && locArr[locArr.length - 1] != "CentrakDevices.aspx" && locArr[locArr.length - 1] != "OutboundTrackingReport.aspx" && locArr[locArr.length - 1] != "LocationHistoryreport.aspx") {
+                document.getElementById("tdLeftMenu").style.display = "";
+            }
+        });
+              
+    </script>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div id="divSiteOverview1">
+        </div>
+        <div id="divDeviceInfo">
+        </div>
+        <div id="divLocalAlerts1">
+        </div>
+        <div id="divPurchaseOrderView1">
+        </div>
+        <div id="divHeartBeatContent1">
+        </div>
+        <div id="BatterySummary">
+        </div>
+        <div id="divListView">
+        </div>
+        <table id="tblMain" cellpadding="0" cellspacing="0" border="0" style="width: 100%;
+            height: 732px;" align="center">
+            <tr style="height: 80px;">
+                <td align="center" valign="top">
+                    <uc1:Banner ID="headerBanner" runat="server" />
+                </td>
+            </tr>
+            <tr align="center" valign="top" style="height: 8px; background-color: #005695; width: 1100px;">
+                <td>
+                </td>
+            </tr>
+            <tr valign="top">
+                <td align="center" valign="top">
+                    <table cellpadding="0" cellspacing="0" border="0" style="width: 1100px;" class="shadow1">
+                        <tr>
+                            <td style="width: 300px; border-left: solid 1 px red; display: none;" valign="top"
+                                id="tdLeftMenu">
+                                <uc2:Leftmenu ID="leftmenu" runat="server" />
+                            </td>
+                            <td style="background-color: #ffffff;" valign="top">
+                                <div style="position: relative; width: 85%; display: none; background-color: #FDF8A5;
+                                    font-weight: bold; color: #005695; font-family: Helvetica,MyriadPro,Verdana, Arial, sans-serif;
+                                    font-size: 13px; vertical-align: middle; padding-left: 10px;" id="marqueeAnnouncements">
+                                    <div id="announcementtag">
+                                    </div>
+                                </div>
+                                <div>
+                                    <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+                                    </asp:contentplaceholder>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>
