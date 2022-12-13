@@ -1,0 +1,37 @@
+name : VA Pulse_V2_Web
+on:
+    workflow_dispatch:
+
+jobs:
+  build:
+    runs-on:  windows-latest 
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v3
+
+      - name: Setup .Net 4
+        uses: actions/setup-dotnet@v3
+        with: 
+          dotnet-version: '3.1.x'
+
+      - name: Setup MSBuild
+        uses: microsoft/setup-msbuild@v1.0.2
+        
+      - name: Build VA Pulse_V2_Web
+        run: msbuild.exe "GMSnewVA.sln" /p:platform="Any CPU" /p:configuration="Release" -m 
+      
+      # Upload a directory that contains a file that will be uploaded with GZip
+      - name: Upload to artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: VA Pulse_V2_Web_V.9.2.0.16
+          path: bin/release/*.*
+
+  Download_Artifact:
+    runs-on: self-hosted      #VA Pulse_V2_Web_Runner
+    needs: build
+    steps : 
+      - name : Download release
+        uses: actions/download-artifact@v3      
+        with:
+          name: VA Pulse_V2_Web_V.9.2.0.16
