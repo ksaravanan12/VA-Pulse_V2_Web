@@ -18,7 +18,7 @@ jobs:
         uses: microsoft/setup-msbuild@v1.0.2
         
       - name: Build VA Pulse_V2_Web
-        run: msbuild.exe "GMSnewVA.sln" /p:platform="Any CPU" /p:configuration="Release" -m 
+        run: msbuild.exe "VA Pulse_V2_Web.sln" /p:platform="Any CPU" /p:configuration="Release" -m 
       
       # Upload a directory that contains a file that will be uploaded with GZip
       - name: Upload to artifact
